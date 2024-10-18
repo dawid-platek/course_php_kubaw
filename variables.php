@@ -12,7 +12,24 @@
     $num = 123; //zmiana wartości zmiennej
 
     echo ("Wartość w zmiennej num to:  $num");
-    ?>
     
+    
+    // Nieprawidłowe nazwy zmiennych
+    // $data value = 12;
+    // $data.value = 12;
+    // $5sum = 14;
+    // $sum-test = 15;
+    // $sfdfdffdgfdgfdg = 200; // źle nazwana zmienna
+    // $sumstudentsinschool = 300; // zła praktyka
+
+    // Prawidłowe nazwy czyli identyfikatory
+    $data_value = 12;
+    $_4sum = 56;
+    $sumStudentsInSchool = 300; // zapis camelCase
+
+
+
+
+    ?>
 </body>
 </html>
