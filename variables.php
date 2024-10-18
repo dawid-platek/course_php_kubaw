@@ -27,6 +27,13 @@
     $_4sum = 56;
     $sumStudentsInSchool = 300; // zapis camelCase
 
+    // Przykładowe zmienne opisujące samochód
+    $topSpeed = 220;
+    $carBrand = "Ford";
+    $carModel = "Mustang";
+    $carProductionYear = 2004;
+    $carColor = "red";
+
 
 
 
